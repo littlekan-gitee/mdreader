@@ -1,0 +1,3 @@
+ports:
+  - port: 2333
+    visibility: private
