@@ -1,0 +1,4 @@
+# Gitpod debug & configuration files
+.gitpod.yml
+njs_server.js
+node_modules/*
