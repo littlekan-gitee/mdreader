@@ -2,3 +2,4 @@
 .gitpod.yml
 server.js
 node_modules/*
+*/*.backup
